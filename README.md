@@ -51,3 +51,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinezcamachocarlos2004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosMartzCam)
+
+[![CV en Español](https://img.shields.io/badge/Descargar_CV_ESP-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV_CarlosMartinez_ESP.pdf)
+[![CV in English](https://img.shields.io/badge/Download_CV_ENG-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV_CarlosMartinez_ENG.pdf)
