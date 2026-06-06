@@ -2,28 +2,30 @@
 
 ### Desarrollador Web | Estudiante de Ingeniería en Sistemas Computacionales @ ESCOM IPN
 
------
+---
 
 ### Sobre mí
 
 - 🏫 Estudiando **Ingeniería en Sistemas Computacionales** en **ESCOM — IPN** (5° Semestre, 2023–2027)
 - 🌐 He desarrollado y desplegado **sitios web reales para clientes**
-- 🤖 Trabajando en una **app de apoyo para personas con VIH** (proyecto personal en desarrollo)
+- 🩺 Trabajando en **Expedimex**, software médico web para consultorios (citas y expedientes clínicos)
 - 💼 Coordinador de Imagen Institucional en **Fundación Reforma Ideológica S.C.**
 - 🚀 Enfocado en construir soluciones eficientes con impacto real
 - 🇲🇽 Ciudad de México
 
------
+---
 
 ### Proyectos destacados
 
-|Proyecto                                                |Descripción                                                                                                      |Tecnologías               |
-|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|--------------------------|
-|🌃 **[STRANA GDL](https://stranagdl.com)**               |Sitio oficial para venue nocturno en Guadalajara. Incluye eventos, galería, ubicación y acceso VIP con NFC.      |HTML, JS, APIs, Cloudflare|
-|🎓 **[Gestoría Escolar](https://gestoriaescolar.com.mx)**|Plataforma para gestión de trámites de certificación académica universitaria con base de datos de expedientes.   |HTML, JS, SQL, Cloudflare |
-|💊 **HIV Support App**                                   |App en desarrollo orientada a apoyar a personas que viven con VIH — accesibilidad, privacidad y facilidad de uso.|JavaScript, APIs, GitHub  |
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| 🌃 **[STRANA GDL](https://stranagdl.com)** | Sitio oficial para venue nocturno en Guadalajara. Incluye eventos, galería, ubicación y acceso VIP con NFC. | HTML, JS, APIs, Cloudflare |
+| 🎓 **[Gestoría Escolar](https://gestoriaescolar.com.mx)** | Plataforma para gestión de trámites de certificación académica universitaria con base de datos de expedientes. | HTML, JS, SQL, Cloudflare |
+| 🩺 **[Expedimex](https://github.com/CarlosMartzCam/expedimex)** | Software médico web en desarrollo para consultorios: agenda de citas y expedientes clínicos electrónicos. | JavaScript, APIs, GitHub |
+| 🏥 **[Sitios para médicos](https://github.com/CarlosMartzCam/Piloto1)** | Demos de sitios web profesionales para doctores. Dos versiones: estilo oscuro ([Piloto1](https://github.com/CarlosMartzCam/Piloto1)) y clásico ([Piloto2](https://github.com/CarlosMartzCam/Piloto2)). | HTML, CSS, JS |
+| 💄 **[Carla Peyrefitte](https://github.com/CarlosMartzCam/carlapeyrefitte)** | Sitio de portafolio para maquillista profesional en CDMX. | HTML, CSS, JS |
 
------
+---
 
 ### Lenguajes y Herramientas
 
@@ -39,13 +41,13 @@
   <a href="https://www.linux.org/"><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
 </p>
 
------
+---
 
 ### Top Lenguajes
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMartzCam&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
------
+---
 
 ### 📬 Contáctame
 
